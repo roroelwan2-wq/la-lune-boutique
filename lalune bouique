@@ -62,12 +62,20 @@
 <div class="perfumes">
     <div class="perfume-category">
         <h2>Assaf Perfumes</h2>
-        <img src="https://your-assaf-image-url-here.jpg" alt="Assaf Perfumes" class="perfume-image">
-        <p>Price: <strong>265 LYD</strong></p>
         <p>Explore our exquisite range of Assaf perfumes for both men and women.</p>
+        
+        <h3 class="perfume-name">Frankel Imagination</h3>
+        <img src="C:\Users\DELL\Desktop\frank/Imagination.jpg" alt="Frankel Imagination" class="perfume-image">
+        <p>Price: <strong>255 LYD</strong></p>
+        
+        <h4 class="perfume-name">Arrogate Distribution Set</h4>
+        <p>Discover the exclusive Arrogate Distribution Set designed for the first perfume.</p>
+        <img src="C:\Users\DELL\Desktop\img/assaf.jpg" alt="Arrogate Distribution Set" class="perfume-image">
+        <p>Price: <strong>345 LYD</strong></p>
     </div>
     <div class="perfume-category">
         <h2>Christian Dior Perfumes</h2>
+        <h3 class="perfume-name">Ambre Nuit</h3> <!-- Added name for the perfume -->
         <img src="C:\Users\DELL\Desktop\cd/photo_20255.jpg" alt="Christian Dior Perfumes" class="perfume-image">
         <p>Price: <strong>366 LYD</strong></p>
         <p>Discover the luxury of Christian Dior perfumes for every occasion.</p>
@@ -75,11 +83,14 @@
     <div class="perfume-category">
         <h2>Gucci Perfumes</h2>
         <p>Indulge in the bold and sophisticated scents of Gucci perfumes.</p>
+        <h3 class="perfume-name">Gorgeous Gardenia Intense</h3>
+        <img src="C:\Users\DELL\Desktop\gucci/Flora.jpg" alt="Gucci Flora" class="perfume-image"> <!-- Added Gucci Flora image -->
+        <p>Price: <strong>432 LYD</strong></p>
     </div>
 </div>
 
 <div class="footer">
-    <p>Contact us on WhatsApp: <strong>0910005577</strong></p>
+    <p>Contact us on WhatsApp: <strong>+218 91-0005577</strong></p>
 </div>
 
 </body>
