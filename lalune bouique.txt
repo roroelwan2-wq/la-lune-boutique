@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lalune Boutique</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #300000;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            padding: 20px; /* Adjusted padding for better logo fit */
+            background-color: #600000;
+        }
+        h1 {
+            font-size: 3em;
+            margin: 0;
+        }
+        .welcome {
+            font-size: 1.5em;
+            margin-bottom: 20px;
+        }
+        .perfumes {
+            padding: 20px;
+        }
+        .perfume-category {
+            margin: 20px 0;
+            font-size: 1.2em;
+        }
+        .perfume-image {
+            max-width: 300px; /* Adjust as needed */
+            height: auto;
+            margin: 10px 0;
+        }
+        .footer {
+            padding: 20px;
+            background-color: #600000;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .logo {
+            max-width: 150px; /* Adjust the size of the logo */
+            height: auto;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <img src="C:\Users\DELL\Desktop\lalune/lalune.jpg" alt="Lalune Boutique Logo" class="logo">
+    <h1>Lalune Boutique</h1>
+    <div class="welcome">Welcome to Lalune Boutique!</div>
+</header>
+
+<div class="perfumes">
+    <div class="perfume-category">
+        <h2>Assaf Perfumes</h2>
+        <p>Explore our exquisite range of Assaf perfumes for both men and women.</p>
+        
+        <h3 class="perfume-name">Frankel Imagination</h3>
+        <img src="C:\Users\DELL\Desktop\frank/Imagination.jpg" alt="Frankel Imagination" class="perfume-image">
+        <p>Price: <strong>255 LYD</strong></p>
+        
+        <h4 class="perfume-name">Arrogate Distribution Set</h4>
+        <p>Discover the exclusive Arrogate Distribution Set designed for the first perfume.</p>
+        <img src="C:\Users\DELL\Desktop\img/assaf.jpg" alt="Arrogate Distribution Set" class="perfume-image">
+        <p>Price: <strong>345 LYD</strong></p>
+    </div>
+    <div class="perfume-category">
+        <h2>Christian Dior Perfumes</h2>
+        <h3 class="perfume-name">Ambre Nuit</h3> <!-- Added name for the perfume -->
+        <img src="C:\Users\DELL\Desktop\cd/photo_20255.jpg" alt="Christian Dior Perfumes" class="perfume-image">
+        <p>Price: <strong>366 LYD</strong></p>
+        <p>Discover the luxury of Christian Dior perfumes for every occasion.</p>
+    </div>
+    <div class="perfume-category">
+        <h2>Gucci Perfumes</h2>
+        <p>Indulge in the bold and sophisticated scents of Gucci perfumes.</p>
+        <h3 class="perfume-name">Gorgeous Gardenia Intense</h3>
+        <img src="C:\Users\DELL\Desktop\gucci/Flora.jpg" alt="Gucci Flora" class="perfume-image"> <!-- Added Gucci Flora image -->
+        <p>Price: <strong>432 LYD</strong></p>
+    </div>
+</div>
+
+<div class="footer">
+    <p>Contact us on WhatsApp: <strong>+218 91-0005577</strong></p>
+</div>
+
+</body>
+</html>
